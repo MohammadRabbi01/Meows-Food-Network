@@ -48,7 +48,7 @@ div p{
 .box{
     width: 30%;
     padding: 2%;
-    box-shadow: 5px 5px 20px;
+    box-shadow: 3px 3px 15px;
     margin-left: 2%;
     margin-right: 2%;
     padding: 2%;
@@ -78,4 +78,16 @@ div p{
     margin-left: 5%;
     margin-right: 5%;
     text-align: center;
+}
+footer h2{
+    text-align: center;
+    color: rgb(92, 91, 91);
+}
+footer p{
+    text-align: center;
+    color: white;
+}
+footer{
+    background-color: black;
+    padding: 20px;
 }
