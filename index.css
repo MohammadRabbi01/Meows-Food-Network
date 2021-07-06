@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 40px;
+    color: rgb(92, 91, 91);
+}
+.h1-color{
+    color: rgb(0, 153, 255);
+}
+.section-1{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(cyan,blue);
+    padding: 10px 50px;
+    color: white;
+    font-weight: 500;
+    border-radius: 20px;
+}
+div p{
+    margin-bottom: 50px;
+}
+.bg-img1{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position:left;
+}
