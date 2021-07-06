@@ -9,7 +9,7 @@ h1{
 .h1-color{
     color: rgb(0, 153, 255);
 }
-.section-1{
+.flex-container{
     display: flex;
 }
 .half-width{
@@ -35,4 +35,25 @@ div p{
     background-image: url(images/Frame\ 57.jpg);
     background-repeat: no-repeat;
     background-position:left;
+}
+.paragraph{
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#last-heading{
+    text-align: center;
+}
+.box{
+    width: 30%;
+    padding: 2%;
+    box-shadow: 5px 5px 20px;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 2%;
+    border-radius: 10px;
+}
+.Shape-img{
+    border: white;
+    border-radius: 25px;
 }
