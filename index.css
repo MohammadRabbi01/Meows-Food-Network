@@ -79,6 +79,24 @@ div p{
     margin-right: 5%;
     text-align: center;
 }
+.txt{
+    margin-left: 5px;
+    margin-top: 20px;
+    width: 500px;
+    height: 200px; 
+}
+.button-dz{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px 10px;
+    background-image: linear-gradient(cyan,blue);
+    color: white;
+}
+form{
+    margin-left: 10px;
+}
+
 footer h2{
     text-align: center;
     color: rgb(92, 91, 91);
